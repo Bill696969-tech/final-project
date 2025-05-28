@@ -8,7 +8,8 @@ def compound_interest(initial, rate, time, n=1):
     
 
 def main():
-    print("Interest Calculator")
+    print("!!<< Interest Calculator >>!!")
+    print("Please select:")
     print("1. Simple Interest")
     print("2. Compound Interest")
     
