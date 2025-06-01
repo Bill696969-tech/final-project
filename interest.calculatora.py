@@ -29,7 +29,6 @@ def main():
         rate = float(input("Enter the annual interest rate %: "))
         time = float(input("Enter the investment length (in years): "))
 
-        # Initialize calculator with validated inputs
         calculator = InterestCalculator(initial, rate, time)
 
         if choice == "1":
